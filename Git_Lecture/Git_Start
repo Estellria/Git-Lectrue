@@ -1,0 +1,4 @@
+쉽게 설명하는 Git 기초 part 1.
+
+git add 파일경로 -> staging area에 올린다.
+git add . -> 상위 경로에서 하위 경로의 파일들을 전부 올린다.
