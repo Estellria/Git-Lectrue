@@ -1,3 +1,4 @@
 쉽게 설명하는 git 기초 part 2.
 
-diff
+git diff -> 달라진 부분을 터미널에 띄운다.
+git difftool -> 달라진 부분을 터미널에 보다 고급지게 띄운다.
