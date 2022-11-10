@@ -3,4 +3,7 @@
 git add 파일경로 -> staging area에 올린다.
 git add .       -> 상위 경로에서 하위 경로의 파일들을 전부 올린다.
 
+git status      -> 현재 branch, commit 된 파일 등의 상태를 띄운다.
+
+
 터미널의 Head는 현재 내 branch
