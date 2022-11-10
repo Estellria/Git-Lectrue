@@ -1,7 +1,11 @@
 쉽게 설명하는 git 기초 part 2.
 
+git add 파일경로 -> staging area에 올린다.
+git add . -> 상위 경로에서 하위 경로의 파일들을 전부 올린다.
+
 git diff -> 달라진 부분을 터미널에 띄운다.
 git difftool -> 달라진 부분을 터미널에 보다 고급지게 띄운다.
 
 git branch 이름 -> 새로운 branch를 만든다.
 git switch 이름 -> 만든 branch로 이동한다.
+
