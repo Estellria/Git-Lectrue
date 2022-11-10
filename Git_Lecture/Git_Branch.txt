@@ -1,0 +1,4 @@
+쉽게 설명하는 Git 기초 part 3
+
+git branch 이름 -> 새로운 branch를 만든다.
+git switch 이름 -> 만든 branch로 이동한다.
